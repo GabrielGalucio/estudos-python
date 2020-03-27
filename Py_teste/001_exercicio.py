@@ -1,0 +1,15 @@
+# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+
+print("Alô mundo!")
+print("Zerando a lista de exercicios da python.br")
+print("Zerando a lista de exercicios da python.br")
+print("Se programar para estudar todos os fundamentos de pyhton")
+print("Se programar para estudar todos os fundamentos de python")
+print("Foco é necessário para não cometer mais procrastinação e se perder no conteúdo")
+print("Foco é necessário para não cometer mais procrastinação e se perder no conteúdo")
+print("Tenha objetivos!")
+print("Tenha objetivos!")
+print("Tenha objetivos!")
+print("Erre, mas nunca pare de tentar")
+print("Erre, mas nunca pare de tentar")
+print("Erre, mas nunca pare de tentar")
