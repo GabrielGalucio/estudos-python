@@ -16,3 +16,5 @@ elif media >= 7:
     print("O Aluno está aprovado")
 
 
+
+
