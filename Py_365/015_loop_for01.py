@@ -1,0 +1,1 @@
+# Alguns exemplos com o loop for em python 
