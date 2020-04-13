@@ -1,4 +1,4 @@
-### Estudos com a lingaugem de programação Python
+### Estudos com a linguagem de programação Python
 
 ##### Este repositório contém diversos estudos com exemplos de testes utilizando a linguagem de programação Python. Pode servir também como uma trilha de apredizado para quem pretende se aprofundar na linguagem. Abaixo, são listado algumas fontes de ensino que ajudaram no decorrer do processo de aprendizagem, conforme este repositório é atualizado, os links também serão.
 
@@ -11,4 +11,4 @@
 
 ### Contribuições
 
-##### Contribições são sempre bem-vindas!
+##### Contribuições são sempre bem-vindas!
