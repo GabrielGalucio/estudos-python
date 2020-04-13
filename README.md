@@ -1,6 +1,6 @@
 ### Estudos com a linguagem de programação Python
 
-##### Este repositório contém diversos estudos com exemplos de testes utilizando a linguagem de programação Python. Pode servir também como uma trilha de apredizado para quem pretende se aprofundar na linguagem. Abaixo, são listado algumas fontes de ensino que ajudaram no decorrer do processo de aprendizagem, conforme este repositório é atualizado, os links também serão.
+Este repositório contém diversos estudos com exemplos de testes utilizando a linguagem de programação Python. Pode servir também como uma trilha de apredizado para quem pretende se aprofundar na linguagem. Abaixo, são listado algumas fontes de ensino que ajudaram no decorrer do processo de aprendizagem, conforme este repositório é atualizado, os links também serão.
 
 * [365 Data Science](https://365datascience.com/)
 * [Data Science Academy](https://www.datascienceacademy.com.br/)
@@ -11,4 +11,4 @@
 
 ### Contribuições
 
-##### Contribuições são sempre bem-vindas!
+Contribuições são sempre bem-vindas!
