@@ -22,8 +22,6 @@ def calculoSalario(valor_hora, hora_trabalhada):
     print("Valor pago ao sindicato: ", salario_sindicato)
     print("Valor líquido que você receberá: ", salario_liquido)
 
-
-
 valor_hora = (float(input("Digite aqui o valor que você ganha por hora: ")))
 hora_trabalhada = (int(input("Digite aqui a quantidade de horas trabalhadas: ")))
 calculoSalario(valor_hora, hora_trabalhada)
