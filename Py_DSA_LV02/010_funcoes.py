@@ -7,4 +7,5 @@
 # para obter o comprimento de uma string. Com funções, escrevemos o código uma única
 # vez e repetimos a mesma instrução através de chamadas, quantos vees forem necesaarias
 
- 
+# def nomeFuncao(arg1, arg2):
+# # comentário da função 
