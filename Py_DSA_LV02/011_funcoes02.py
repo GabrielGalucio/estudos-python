@@ -1,0 +1,1 @@
+# Definindo variavies locais e globais
