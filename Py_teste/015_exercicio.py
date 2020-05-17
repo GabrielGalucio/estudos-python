@@ -8,7 +8,6 @@
 # D) O salário líquido
 # E) Calcule os descontos e o salário líquido conforme tabela abaixo
 
-
 def calculoSalario(valor_hora, hora_trabalhada):
     salario_bruto = valor_hora * hora_trabalhada
     salario_renda = (11 * salario_bruto) / 100
