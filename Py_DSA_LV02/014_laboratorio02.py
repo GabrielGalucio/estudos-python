@@ -34,5 +34,6 @@ elif escolha == 4:
     print(f"O resultado da multiplicação entre {numero_div_01} x {numero_div_02} é: {resultado_div}")
     
 else:
-    print("Escolha invalida, por favor digita 1, 2, 3 ou 4") 
+    print("Escolha invalida, por favor digita 1, 2, 3 ou 4")
+    print("Execute novamente o código para reiniciar.") 
 
