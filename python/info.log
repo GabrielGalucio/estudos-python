@@ -1,0 +1,10 @@
+$(levelname)s 06/06/2020 02:20:56: Isso é uma mensagem nivel debug
+$(levelname)s 06/06/2020 02:20:56: Isso é uma mensagem nivel info
+$(levelname)s 06/06/2020 02:20:56: Isso é uma mensagem nivel warning
+$(levelname)s 06/06/2020 02:20:56: Isso é uma mensagem nivel error
+$(levelname)s 06/06/2020 02:20:56: Isso é uma mensagem nivel critical
+DEBUG 06/06/2020 02:23:06: Isso é uma mensagem nivel debug
+INFO 06/06/2020 02:23:06: Isso é uma mensagem nivel info
+WARNING 06/06/2020 02:23:06: Isso é uma mensagem nivel warning
+ERROR 06/06/2020 02:23:06: Isso é uma mensagem nivel error
+CRITICAL 06/06/2020 02:23:06: Isso é uma mensagem nivel critical
