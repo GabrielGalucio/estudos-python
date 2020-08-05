@@ -13,7 +13,7 @@ logger = logging.StreamHandler()
 logging.getLogger("").addHandler(logger)
 
 
-# Escrevendo um retorno
+# Escrevendo um retorno para o cliente
 logging.debug("Isso é uma mensagem nivel debug")
 logging.info("Isso é uma mensagem nivel info")
 logging.warning("Isso é uma mensagem nivel warning")
